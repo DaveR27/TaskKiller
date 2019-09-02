@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe.config
+C:\Users\David\source\repos\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe
+C:\Users\David\source\repos\TaskKiller\TaskKiller\bin\Debug\TaskKiller.pdb
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csprojAssemblyReference.cache
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.Form1.resources
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.Properties.Resources.resources
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.GenerateResource.cache
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.exe
+C:\Users\David\source\repos\TaskKiller\TaskKiller\obj\Debug\TaskKiller.pdb
